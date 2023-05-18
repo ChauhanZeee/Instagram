@@ -148,11 +148,11 @@ The project is a basic web application built using Java and the Spring framework
 
 ## Author
 
-👤 **Ajinkya Padule**
+👤 **Shubham chauhan**
 
-* GitHub: [AjinkyaPersonal](https://github.com/AjinkyaPersonal)
+* GitHub: (https://github.com/ChauhanZeee)
 
-* LinkedIn: [Ajinkya Padule](https://www.linkedin.com/in/ajinkya-padule-04b8541a6/)
+* LinkedIn: (https://www.linkedin.com/in/shubham-chauhan-908326229/)
     
 ---
 
@@ -167,11 +167,4 @@ Contributions, issues and feature requests are welcome!<br />Feel free to check 
 Give a ⭐️ if this project helped you!
     
 ---
-    
-## 📝 License
-
-Copyright © 2023 [Ajinkya Padule](https://github.com/AjinkyaPersonal).<br />
-
-This project is [MIT]("url") licensed.
-    
----
+   
